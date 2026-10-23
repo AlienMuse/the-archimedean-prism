@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+type: dataset
+title: "The Archimedean Prism"
+abstract: "Tame Period Geometry and the Hodge Conjecture. A monograph in five volumes bound as one, a self-contained research subject of the Grothendieckian Programme: algebraicity of Hodge classes as a descent datum along a definable bi-Rees prism, twelve axioms, an unconditional equivalence of five formulations of the Hodge Conjecture, an obstruction ledger with two live entries, and a specified computational and formal-verification architecture. The Hodge conjecture remains open."
+authors:
+  - family-names: "Liu"
+    given-names: "Vincent"
+    email: "elsevier2012@hotmail.com"
+version: "1.0.0"
+date-released: "2026-10-23"
+doi: "10.5281/zenodo.23597954"
+license: "CC-BY-NC-ND-4.0"
+url: "https://github.com/AlienMuse/the-archimedean-prism"
+keywords:
+  - "Hodge conjecture"
+  - "algebraic cycles"
+  - "period map"
+  - "o-minimality"
+  - "definable Chow"
+  - "Mumford–Tate group"
+  - "motives"
+  - "standard conjectures"
+  - "categorical trace"
+  - "non-abelian Hodge theory"
+  - "formal verification"
+  - "certified computation"
+  - "Grothendieckian Programme"
+  - "recursive mathematical discovery"
+  - "AI for mathematics"
+preferred-citation:
+  type: book
+  title: "The Archimedean Prism — Tame Period Geometry and the Hodge Conjecture"
+  authors:
+    - family-names: "Liu"
+      given-names: "Vincent"
+  year: 2026
+  edition: "Research Architecture Edition 1"
+  collection-title: "WiseMotif Monograph of Mathematical Intelligence, Series 05"
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23597954"
+  url: "https://doi.org/10.5281/zenodo.23597954"
