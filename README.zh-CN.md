@@ -313,5 +313,6 @@ GitHub 的 *Cite this repository* 按钮使用 [CITATION.cff](CITATION.cff)。�
   Series 04：<a href="https://github.com/AlienMuse/fractured-adelic-geometry"><i>Fractured Adelic Geometry</i></a> ·
   Series 06：<a href="https://github.com/AlienMuse/strained-prismatic-geometry"><i>Strained Prismatic Geometry</i></a> ·
   Series 07：<a href="https://github.com/AlienMuse/the-arithmetic-topos"><i>The Arithmetic Topos</i></a><br>
+  Grothendieck Lab 与 Grothendieckian Programme 的官方网站：<a href="https://grothendiecklab.com/zh/">grothendiecklab.com</a><br>
   © 2026 Vincent Liu
 </sub></p>
